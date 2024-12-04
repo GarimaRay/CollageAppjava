@@ -1,0 +1,4 @@
+9876543,Futta,Computing,9876543796,20
+9876532,kooo,Multimedia,9876543567,25
+2304859,Suman,Computing,9803729956,23
+8765789,Rajshree Khadka,Computing,9879876598,23
